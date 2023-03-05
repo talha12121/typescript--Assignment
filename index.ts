@@ -74,20 +74,39 @@
 
                 //  Question no 14
 
-// let invitedPerson:string[] = ["Living" , "Deceased" , "All"];
+ //  let invitedPerson:string[] = ["Aziz" , "Faizan" , "Ali"];
 // console.log(invitedPerson[0]+ " " + `${"are Invited to dinner"}`) 
 // console.log(invitedPerson[1]+ " " + `${"are Invited to dinner"}`) 
 // console.log(invitedPerson[2]+ " " + `${"are Invited to dinner"}`) 
 
                          //  Question no 15
+                       
+ //  let invitedPerson:string[] = ["Aziz" , "Faizan" , "Ali"];
+//   console.log("why u not coming " +`${invitedPerson[1]}`) //a
+//  let newMemeber:string[]= invitedPerson.splice(1,1,"Talha")
+//  console.log(invitedPerson)   //b
+// console.log(invitedPerson[0]+ " " + `${"are Invited to dinner"}`)    //c
+// console.log(invitedPerson[1]+ " " + `${"are Invited to dinner"}`) 
+// console.log(invitedPerson[2]+ " " + `${"are Invited to dinner"}`) 
 
-// let invitedPerson:string[] = ["Living" , "Deceased" , "All"];
 
+                          //  Question no 16
 
+//  let invitedPerson:string[] = ["Aziz" , "Faizan" , "Ali"];
+//  for(var i = 0 ;i< invitedPerson.length;i++){
+//  console.log("We found a Bigger Table " + `${invitedPerson[i]}`)
+//  }
+//  invitedPerson.unshift("Talha");        // Begining
+//  invitedPerson.push("Okasha");          // End
+//  invitedPerson.splice(2,0, "moiz");     // Middle
+//  console.log(invitedPerson);
+// for(var i = 0 ;i< invitedPerson.length;i++){
+//    console.log("You are invited " + `${invitedPerson[i]}`)
+//     }   
 
+                            //  Question no 17
 
-
-
+                          
 
 
    
