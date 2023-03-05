@@ -28,4 +28,34 @@
 // console.log("Subtraction = " + `${12-4}`)
 // console.log("Multiplication = " + `${4*2}`)
 // console.log("Division = " + `${16/2}`)
-//  Question no 9 
+//  Question no 9 or 10
+// let favNum:number = 7
+// console.log("My Favoutite Number is " + `${favNum}`)
+//  Question no 11
+// let names:string[] = ["Okasha","Aziz","Moiz","faizan"];
+// console.log(names[0])
+// console.log(names[1])
+// console.log(names[2])
+// console.log(names[3])
+//  Question no 12
+// let names:string[] = ["Okasha","Aziz","Moiz","faizan"];
+// let message:string = "Hello,How are you"
+// console.log(`${message} ${names[0]}`)
+// console.log(`${message} ${names[1]}`)
+// console.log(`${message} ${names[2]}`)
+// console.log(`${message} ${names[3]}`)
+//  Question no 13
+// let myArray:string[] = ["Motorcycle" , "Car" , "Train", "Aeroplane"]
+// let message:string = "I would like to own a "
+// console.log(`${message} ${myArray[3]}`)
+//  Question no 14
+// let invitedPerson:string[] = ["Living" , "Deceased" , "All"];
+// console.log(invitedPerson[0]+ " " + `${"are Invited to dinner"}`) 
+// console.log(invitedPerson[1]+ " " + `${"are Invited to dinner"}`) 
+// console.log(invitedPerson[2]+ " " + `${"are Invited to dinner"}`) 
+//  Question no 15
+// let invitedPerson:string[] = ["Living" , "Deceased" , "All"];
+var cal = function (num1, num2) {
+    return num1 + num2;
+};
+console.log(cal(2, 3));
